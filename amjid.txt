@@ -1,0 +1,8 @@
+welcome to Amjid's reponsitory
+this is ERPNext app customized by Amjid
+For any information please contact
+amjid@syncbricks.com
+
+Thanks,
+Amjid Ali
+

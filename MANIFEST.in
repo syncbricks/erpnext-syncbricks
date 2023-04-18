@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include syncbricks *.css
+recursive-include syncbricks *.csv
+recursive-include syncbricks *.html
+recursive-include syncbricks *.ico
+recursive-include syncbricks *.js
+recursive-include syncbricks *.json
+recursive-include syncbricks *.md
+recursive-include syncbricks *.png
+recursive-include syncbricks *.py
+recursive-include syncbricks *.svg
+recursive-include syncbricks *.txt
+recursive-exclude syncbricks *.pyc
